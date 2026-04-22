@@ -12,3 +12,4 @@ line_man: com.linecorp.linemanth/com.linecorp.linemanth.android.feature.dynamica
 rabbit_rewards: th.co.carrotrewards/uat.rabbit.rewards.app.MainActivity
 sukisu_ultra: com.resukisu.resukisu/com.resukisu.resukisu.ui.MainActivity
 gogh: com.goghjapan.gogh_android/com.google.firebase.MessagingUnityPlayerActivity
+donottryaccessibility: io.github.nitsuya.donottryaccessibility/io.github.nitsuya.donottryaccessibility.Home
