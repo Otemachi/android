@@ -5,3 +5,19 @@
 # examples:
 # https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
+
+myais:
+  compinfo:
+    - com.ais.mimo.eservice/com.ais.mimo.eservice.MainActivity
+ibis_paint_x:
+  compinfo:
+    - jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.InitializeCheckActivity
+line_man:
+  compinfo:
+    - com.linecorp.linemanth/com.linecorp.linemanth.android.feature.dynamicappicon.presentation.SplashActivityAliasNormal
+rabbit_rewards:
+  compinfo:
+    - th.co.carrotrewards/uat.rabbit.rewards.app.MainActivity
+sukisu_ultra:
+  compinfo:
+    - com.resukisu.resukisu/com.resukisu.resukisu.ui.MainActivity
