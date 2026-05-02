@@ -59,3 +59,5 @@ crowdsec_manager: com.crowdsec.manager.independent/com.crowdsec.manager.mobile.M
 obtainium: app.obtainiumplus/app.obtainiumplus.MainActivity
 
 my_rabbit: com.bss.rabbitmobileapp/net.appsynth.rabbit.rabbitApp.MainActivity
+
+glyph_beat: com.pauwma.glyphbeat/com.pauwma.glyphbeat.MainActivity
