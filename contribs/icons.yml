@@ -6,18 +6,17 @@
 # https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
 
-lsposed_manager:
-  - pw.hexed.lsposed/pw.hexed.lsposed.MainActivity
-  - org.gilbsgilbs.lspshrt/org.gilbsgilbs.lspshrt.MainActivity
+kurobaex: com.github.k1rakishou.chan/com.github.k1rakishou.chan.ui.activity.StartActivity
 
-blockads: app.pwhs.blockads/app.pwhs.blockads.MainActivity
+ling: com.simyasolutions.ling.fil/com.simyasolutions.ling.SplashActivity
 
-salt_player: com.salt.music/com.salt.music.ui.MainActivity
+continuum_alt_1: {}
 
-smash_legends_alt_1: com.linegames.sl/io.gamepot.unity.plugin.GamePotSDKActivity
+journie: ca.journie.app/ca.journie.dev.MainActivity
 
-opnvlive: com.initka.android.departurelive/com.initka.android.departurelive.MainActivity
+studium: ca.umontreal.studiumprod/ca.umontreal.studiumprod.MainActivity
 
+<<<<<<< HEAD
 adns: com.eyalm.adns/com.eyalm.adns.MainActivity
 
 better_nothing_music_visualizer: com.better.nothing.music.vizualizer/com.better.nothing.music.vizualizer.MainActivity
@@ -59,5 +58,7 @@ crowdsec_manager: com.crowdsec.manager.independent/com.crowdsec.manager.mobile.M
 obtainium: app.obtainiumplus/app.obtainiumplus.MainActivity
 
 my_rabbit: com.bss.rabbitmobileapp/net.appsynth.rabbit.rabbitApp.MainActivity
+
+instaprime: com.instaprime.android/com.instagram.android.activity.MainTabActivity
 
 glyph_beat: com.pauwma.glyphbeat/com.pauwma.glyphbeat.MainActivity
